@@ -1,0 +1,1 @@
+Para Converter os obj para GameModel acesse a pasta convert e acesse o index.html
